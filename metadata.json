@@ -1,0 +1,8 @@
+{
+  "name": "KubeLite Orchestrator",
+  "description": "A lightweight multi-cloud container orchestration platform and dashboard with service discovery, persistent storage, automated rollouts, self-healing scheduler, and secret management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
